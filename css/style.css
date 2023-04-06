@@ -14,6 +14,22 @@ body{
     margin: 0 auto;
 }
 
+#header{
+    background-color: darkcyan;
+    box-shadow: 0px 2px 20px 0px rgb(0, 0, 0.5);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#header #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.7em;
+}
+
 #container h1{
     font-size: 25px;
     text-align: center;
