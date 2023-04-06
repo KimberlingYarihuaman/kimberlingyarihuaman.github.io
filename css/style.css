@@ -36,3 +36,8 @@ body{
     color: blueviolet;
     padding-bottom: 1.3rem;
 }
+
+#bloc {
+   font-size: 18px;
+   color: blue;
+}
