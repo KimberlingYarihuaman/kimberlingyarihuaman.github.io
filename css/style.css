@@ -57,3 +57,11 @@ body{
     width: 40px;
     vertical-align: middle;
  }
+ 
+ #footer{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    background-color: #777;
+    padding: 1em;
+ }
