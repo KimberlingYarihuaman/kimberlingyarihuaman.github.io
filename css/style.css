@@ -65,3 +65,8 @@ body{
     background-color: rgb(39, 137, 204, .4);
     padding: 1.2em;
  }
+
+ #team{
+    display: block;
+    margin: auto;
+ }
